@@ -1,0 +1,14 @@
+Pseudo code
+Read num1 , num2
+
+Sum=0
+
+square1=num1*num1
+
+square2=num2*num2
+
+Sum=square1=square2
+
+
+
+Print Sum
