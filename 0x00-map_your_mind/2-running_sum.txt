@@ -1,0 +1,7 @@
+Declare a variable n, i and sum as integer;
+Read number n ;
+for i upto n increment i by 1 and i=1
+{
+sum=sum+i;
+}
+Print sum;
