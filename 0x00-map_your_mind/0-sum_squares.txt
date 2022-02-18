@@ -1,14 +1,11 @@
-Pseudo code
-Read num1 , num2
-
-Sum=0
-
-square1=num1*num1
-
-square2=num2*num2
-
-Sum=square1=square2
-
-
-
-Print Sum
+Step 1. Start
+Step 2. Read number num
+Step 3. [Initialize]
+        sum=0, i=1
+Step 4. Repeat step 4 through 6 until i<=num
+Step 5. sum=sum+(i*i)
+Step 6. i=i+1
+Step 7. print the sum of square
+Step 8. stop
+[end of loop step 4]
+[end of sum of square procedure]
