@@ -1,0 +1,19 @@
+Accept three numbers from user (a, b, c).
+
+If a < b then goto step 4 else goto step 8.
+
+If a < c then goto step 5 else goto step 7.
+
+If b < c then goto step 9 else goto step 6.
+
+Interchange b and c and goto step 9.
+
+Interchange a and c and goto step 3.
+
+Interchange a and b and goto step 3.
+
+Display “Ascending order”.
+
+Display a, b, c.
+
+Stop.
